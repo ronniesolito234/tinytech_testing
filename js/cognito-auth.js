@@ -68,7 +68,6 @@ var WildRydes = window.WildRydes || {};
                 }
             }
         );
-        console.log('username:', username);
         console.log('email:', email);
     }
 
