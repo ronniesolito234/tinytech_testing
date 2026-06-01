@@ -68,6 +68,8 @@ var WildRydes = window.WildRydes || {};
                 }
             }
         );
+        console.log('username:', username);
+        console.log('email:', email);
     }
 
     function signin(email, password, onSuccess, onFailure) {
